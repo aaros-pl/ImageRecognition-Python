@@ -1,6 +1,7 @@
 # The rozpoZNAK application - first part
 
 > This is the first part of the application used to recognize road signs using python and java android. 
+> Code adopted to run on VPS with Ubuntu 18.04 LTS
 
 ## Getting Started
 
